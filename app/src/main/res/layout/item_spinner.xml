@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="?android:attr/spinnerItemStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00ff0000"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp"
+    android:textSize="10dp" />
