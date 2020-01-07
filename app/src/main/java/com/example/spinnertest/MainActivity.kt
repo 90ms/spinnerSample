@@ -18,6 +18,8 @@ class MainActivity : AppCompatActivity() {
 
         val adapter = ArrayAdapter(this, R.layout.item_spinner, str)
 
+        // 커밋테스트
+
         adapter.setDropDownViewResource(R.layout.item_spinner)
 
         spinner_field.adapter = adapter
